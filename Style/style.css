@@ -1,0 +1,12 @@
+.header {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.nav__header {
+    text-align: center;
+    border: black 2px solid;
+}
+
+.nav__link {
+}
